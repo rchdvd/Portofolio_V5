@@ -79,9 +79,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/EkiZR", label: "GitHub Profile" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ekizr/", label: "LinkedIn Profile" },
-  { icon: Instagram, link: "https://www.instagram.com/ekizr_/?hl=id", label: "Instagram Profile" }
+  { icon: Github, link: "https://github.com/rchdvd", label: "GitHub Profile" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/rcjh/", label: "LinkedIn Profile" },
+  { icon: Instagram, link: "https://www.instagram.com/richard_d4vdd/?hl=id", label: "Instagram Profile" }
 ];
 
 const Home = () => {
@@ -141,24 +141,24 @@ const Home = () => {
     <>
       <Helmet>
         <title>Eki Zulfar Rachman — Frontend Web Developer</title>
-        <meta name="description" content="Website resmi Eki Zulfar Rachman, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
+        <meta name="description" content="Website resmi Richardo David, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
      <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://ekizr.com" />
-        <meta property="og:title" content="Eki Zulfar Rachman — Frontend Web Developer" />
+        <link rel="canonical" href="https://Rcjh.com" />
+        <meta property="og:title" content="Richardo David — Frontend Web Developer" />
      <meta property="og:description" content="Website resmi dan portofolio Eki Zulfar Rachman, Front-End Web Developer." />
-        <meta property="og:url" content="https://ekizr.com" />
+        <meta property="og:url" content="https://rcjh.com" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "Eki Zulfar Rachman",
+            "name": "Richardo David",
             "jobTitle": "Frontend Developer",
-            "url": "https://ekizr.com",
+            "url": "https://rcjh.com",
             "sameAs": [
-              "https://github.com/EkiZR",
-              "https://www.linkedin.com/in/ekizr/",
-              "https://www.instagram.com/ekizr_/"
+              "https://github.com/rchdvd",
+              "https://www.linkedin.com/in/richard_d4vdd/",
+              "https://www.instagram.com/Richard_d4vdd/"
             ]
           }
         `}</script>
