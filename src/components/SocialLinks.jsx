@@ -44,7 +44,7 @@ const socialLinks = [
     displayName: "Github",
     subText: "@rchdvd",
     icon: Github,
-    url: "https://github.com/rchdvd",
+    url: "https://github.com/rchdvddd",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]",
   },
