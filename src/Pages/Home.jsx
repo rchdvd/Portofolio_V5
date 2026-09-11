@@ -140,12 +140,12 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Eki Zulfar Rachman — Frontend Web Developer</title>
+        <title>Richardo David — Frontend Web Developer</title>
         <meta name="description" content="Website resmi Richardo David, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
      <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://Rcjh.com" />
         <meta property="og:title" content="Richardo David — Frontend Web Developer" />
-     <meta property="og:description" content="Website resmi dan portofolio Eki Zulfar Rachman, Front-End Web Developer." />
+     <meta property="og:description" content="Website resmi dan portofolio Richardo David, Front-End Web Developer." />
         <meta property="og:url" content="https://rcjh.com" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
