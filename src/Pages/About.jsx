@@ -229,7 +229,7 @@ const AboutPage = () => {
                 data-aos-duration="1300"
                 itemProp="name"
               >
-                Eki Zulfar Rachman
+                Richardo David
               </span>
             </h2>
             
