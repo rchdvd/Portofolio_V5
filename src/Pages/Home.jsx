@@ -156,7 +156,7 @@ const Home = () => {
             "jobTitle": "Frontend Developer",
             "url": "https://rcjh.com",
             "sameAs": [
-              "https://github.com/rchdvd",
+              "https://github.com/rchdvddd",
               "https://www.linkedin.com/in/richard_d4vdd/",
               "https://www.instagram.com/Richard_d4vdd/"
             ]
