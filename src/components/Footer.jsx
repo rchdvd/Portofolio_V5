@@ -8,7 +8,7 @@ const Footer = () => {
         <span className="block text-sm pb-4 text-gray-500 text-center dark:text-gray-400">
           © {currentYear}{" "}
           <a href="https://Rcjh.com" className="hover:underline">
-            EkiZR™
+            Rcjh
           </a>
           . All Rights Reserved.
         </span>
